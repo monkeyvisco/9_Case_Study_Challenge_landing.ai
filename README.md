@@ -9,6 +9,7 @@
 ## Overview and Origin
 
 Landing AI is an Artificial Intelligence (AI) company responding to the challenges businesses face in adopting AI with the goal of realizing practical value.  
+
 As with any new tool, businesses face the challenge of answering ‘how do we’ questions.  However, the technical complexity of implementing an AI project along with the anticipated high return on investment makes answering these questions both daunting and difficult.
 What should we tackle first?  Acquiring technical knowledge to assess what is, and is not, technically feasible is difficult. This is further exasperated given the complexity of the technology and current wide-spread misunderstanding about what AI is today, relative to the perceived end-state of AI.
 Where’s the data and can we use it?  Acquiring large, high-quality datasets to train and operate, effectively, requires both an understanding of data sources and techniques to manipulate or condition data. It’s worth noting many companies already have troves of data in their data warehouses - being able to assess the value and use cases for the data is the mystery companies will need to solve.
