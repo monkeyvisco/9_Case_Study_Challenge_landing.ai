@@ -1,8 +1,6 @@
-### Landing AI
+### Landing AI and How it is Solving Problems in the Manufacturing Industry
 
-## A Case Study that analyzes how an AI company (Landing AI) responds to the problems and needs of AI Machine Vision,and how it using AI technology to solve standing problems, in the manufacturing industry.
-
-# _Ai BootCamp Module 1 Challenge Submission by Aaron Wood_
+# MSU EdX Ai BootCamp Module 1 Challenge by Aaron Wood
 
 
 
