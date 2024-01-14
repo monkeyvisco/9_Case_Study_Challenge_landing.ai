@@ -1,6 +1,9 @@
-# An Outsider's Perspective of the Company Landing AI and how it is Solving Problems in the Manufacturing Industry
+# An AI / Machine Vision Outsider's Perspective of Landing AI and how the Company is Solving Problems in the Manufacturing Industry
 
 ## MSU EdX Ai BootCamp Module 1 Challenge by Aaron Wood
+
+## Grade 95 / 100.
+Grader: Maitree Maniar, Nov 22, 2023 at 2:40pm.
 
 ## Overview and Origin
 
