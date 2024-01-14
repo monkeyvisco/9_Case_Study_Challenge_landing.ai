@@ -1,8 +1,6 @@
-### Landing AI and How it is Solving Problems in the Manufacturing Industry
+### An Outsider's Perspective of the Company Landing AI and how it is Solving Problems in the Manufacturing Industry
 
 # MSU EdX Ai BootCamp Module 1 Challenge by Aaron Wood
-
-
 
 ## Overview and Origin
 
