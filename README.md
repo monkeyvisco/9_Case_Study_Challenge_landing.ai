@@ -2,7 +2,7 @@
 
 ## MSU EdX Ai BootCamp Module 1 Challenge by Aaron Wood
 
-## Grade 95 / 100.
+## Grade 95 / 100.  (Quite gracious, thank you.)
 Grader: Maitree Maniar, Nov 22, 2023 at 2:40pm.
 
 ## Overview and Origin
