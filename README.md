@@ -2,12 +2,7 @@
 
 ## MSU EdX Ai BootCamp Module 1 Challenge by Aaron Wood
 
-## Grade 95 / 100.
-Grader: Maitree Maniar, Nov 22, 2023 at 2:40pm.
-
-My Response, here, to Maitree: That's quite gracicous, thank you, but I know it's scored with respect to limited available time for the challenge. And thank you for the insightful comments. A fine outline for a better business study it has become!
-
-## Overview and Origin
+# Overview and Origin
 
 Landing AI is an Artificial Intelligence (AI) company responding to the challenges businesses face in adopting AI with the goal of realizing practical value.  
 
@@ -241,5 +236,12 @@ In this case, these technologies are fit for purpose and scalable, as they are a
 (https://postindustria.com/why-everyone-is-seeking-ai-engineers-an-emerging-trend-that-is-here-to-stay/)
 
 
+
+## Grades and Such
+
+Grade 95 / 100.
+Grader: Maitree Maniar, Nov 22, 2023 at 2:40pm.
+
+My Response, here, to Maitree: That's quite gracicous, thank you, but I know it's scored with respect to limited available time for the challenge. And thank you for the insightful comments. A fine outline for a better business study, it has become!
 
 ## End
